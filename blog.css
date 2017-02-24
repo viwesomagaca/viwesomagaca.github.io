@@ -1,0 +1,180 @@
+h1,{
+    font-family:cursive;
+    font-size: 300%;
+    color: dimgray;
+}
+h2, h3{
+    font-size: 125%;
+    color:dimgray;
+}
+ 
+#introduction{
+    margin-right: 90px;
+    margin-left: 90px;
+    border-radius: 25px;
+    background-image: url("WewaSt.jpg");
+    height: 250px;
+    
+   
+}
+#introduction h1{
+    font-family: "Times New Roman", serif;
+    color: dimgray;
+    font-size: 300%;
+    position: relative;
+    right: 1px;
+    top: 20px;
+        
+    
+}
+#introduction #intro{
+    position: relative;
+    left: -25%;
+    height: 90%;
+    width: 20%;
+    bottom: -5%
+}
+
+#dubai{
+     margin-right: 90px;
+    margin-left: 90px;
+    border-radius: 25px;
+    background-image: url("WewaSt.jpg");
+    height: 250px; 
+    
+        
+}
+#dubai #dubaid{
+    position: relative;
+    width: 20%;
+    height: 80%;
+    left: 30%;
+    top: -5%
+    
+}
+p{
+    font-family:fantasy;
+    color: dimgray;
+        font-size:200%;
+     text-align: center;
+
+}
+#language{
+     margin-right: 90px;
+    margin-left: 90px;
+    border-radius: 25px;
+    background-image: url("WewaSt.jpg");
+    height: 250px;
+}
+
+table, th, tr, td{
+   border-radius: 3px;
+    border: 2px solid black;
+     text-align: center; 
+    border-collapse: collapse;
+    color: dimgray;
+    height: 20px;
+    
+}
+th{
+    font-size: %;
+    color:dimgray;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+li{
+    font-family: cursive;
+    font-size: 100%;
+    bottom: -10%;
+    color:dimgray;
+    list-style: none;
+}
+
+body{
+    position: fixed;
+    background-image: url("0oBV2H.jpg");
+    background-repeat:repeat;
+    background-attachment: fixed;
+     text-align: center;
+   
+}
+#historic_places{
+     margin-right: 90px;
+    margin-left: 90px;
+    border-radius: 25px;
+    background-image: url("WewaSt.jpg");
+    height: 30px;
+    
+}
+#clock_tower{
+     margin-right: 90px;
+    margin-left: 90px;
+    border-radius: 25px;
+    background-image: url("WewaSt.jpg");
+    height: 250px;
+  
+}
+#clock_tower #tower{
+    position: relative;
+    right: -20%;
+    height: 90%;
+    width: 15%;
+    bottom: -15px
+}
+
+#dry_dock{
+     margin-right: 90px;
+    margin-left: 90px;
+    border-radius: 25px;
+    background-image: url("WewaSt.jpg");
+    height: 250px;
+  
+}
+#dry_dock #dock{
+    position: relative;
+    left: -6%;
+    width: 30%;
+    height: 80%;
+    bottom: -7%
+    
+
+        
+}
+#swing_bridge{
+     margin-right: 90px;
+    margin-left: 90px;
+    border-radius: 25px;
+    background-image: url("WewaSt.jpg");
+    height: 250px;
+  
+}
+#swing_bridge #swing{
+    position: relative;
+    right: -15%;
+    height: 85%;
+    bottom: -5%;
+}
+
+#footer{
+      margin-right: 90px;
+    margin-left: 90px;
+    border-radius: 25px;
+    background-image: url("WewaSt.jpg");
+    height: px;
+
+    
+}
+#footer h4{
+     color: dimgray;
+    font-size: 90%;
+    position: relative;
+    right: 305px;
+    top: 50px;
+
+}
+#footer img{
+    display: inline-block;
+    left: -14px;
+    top: 10px;
+}
